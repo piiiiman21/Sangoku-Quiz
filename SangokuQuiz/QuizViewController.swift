@@ -33,11 +33,6 @@ class QuizViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        bannerView = GADBannerView(adSize: kGADAdSizeBanner)
-        bannerView.adUnitID = "ca-app-pub-3940256099942544/2934735716"
-        bannerView.rootViewController = self
-        bannerView.load(GADRequest())
-        addBanerViewToView(bannerView)
         print("選択したのはレベル\(selectLevel)")
         
         csvArray = loadCSV(fileName: "quiz\(selectLevel)")
