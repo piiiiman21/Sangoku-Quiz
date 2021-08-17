@@ -1,0 +1,45 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "5Gp-D1-Vxv"; */
+"5Gp-D1-Vxv.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "6F3-fG-m2Y"; */
+"6F3-fG-m2Y.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "7Qi-61-Dye"; */
+"7Qi-61-Dye.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "レベル1"; ObjectID = "BAw-Hq-YS7"; */
+"BAw-Hq-YS7.normalTitle" = "レベル1";
+
+/* Class = "UIButton"; normalTitle = "結果をシェアする"; ObjectID = "C0l-pD-KFW"; */
+"C0l-pD-KFW.normalTitle" = "結果をシェアする";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "C8p-Ab-sO6"; */
+"C8p-Ab-sO6.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UIButton"; normalTitle = "スタート"; ObjectID = "Q7c-rz-WSG"; */
+"Q7c-rz-WSG.normalTitle" = "スタート";
+
+/* Class = "UIButton"; normalTitle = "レベル2"; ObjectID = "RMN-KF-ZRJ"; */
+"RMN-KF-ZRJ.normalTitle" = "レベル2";
+
+/* Class = "UILabel"; text = "難易度を選択"; ObjectID = "Si4-Wc-Vcd"; */
+"Si4-Wc-Vcd.text" = "難易度を選択";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "T4s-CI-BFn"; */
+"T4s-CI-BFn.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "三国志クイズ"; ObjectID = "XUP-z3-pl4"; */
+"XUP-z3-pl4.text" = "三国志クイズ";
+
+/* Class = "UIButton"; normalTitle = "レベル3"; ObjectID = "YZd-5D-bBz"; */
+"YZd-5D-bBz.normalTitle" = "レベル3";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "fbW-y7-k6G"; */
+"fbW-y7-k6G.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "トップに戻る"; ObjectID = "j5R-tx-8c3"; */
+"j5R-tx-8c3.normalTitle" = "トップに戻る";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "q7n-va-5Yy"; */
+"q7n-va-5Yy.text" = "Label";
